@@ -1,0 +1,29 @@
+{
+  "name": "reasy-js-playground",
+  "version": "0.0.1",
+  "description": "Playground project for reasy-js library",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "reasy-js",
+    "rest",
+    "api",
+    "typescript"
+  ],
+  "author": "David Mifsud",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "reasy-js": "^1.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
